@@ -1,7 +1,7 @@
 {
-  "name": "test-task-sceleton",
+  "name": "test-task-template",
   "version": "1.0.0",
-  "description": "sceleton",
+  "description": "template",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zone3000MarkupTeam/TestTaskSceleton.git"
+    "url": "git+https://github.com/Zone3000MarkupTeam/TestTaskTemplate.git"
   },
-  "author": "Zone3000MurkupTeam",
+  "author": "NCMarkupTeam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zone3000MarkupTeam/TestTaskSceleton/issues"
+    "url": "https://github.com/Zone3000MarkupTeam/TestTaskTemplate/issues"
   },
-  "homepage": "https://github.com/Zone3000MarkupTeam/TestTaskSceleton#readme",
+  "homepage": "https://github.com/Zone3000MarkupTeam/TestTaskTemplate#readme",
   "devDependencies": {
     "autoprefixer": "^8.2.0",
     "babel-loader": "^7.1.4",

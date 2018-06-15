@@ -1,8 +1,8 @@
-# TestTaskSceleton
+# TestTaskTemplate
 
 ## Getting started guide
 
-1.  Fork repository!!!
+1.  Fork repository
 
 2.  Clone repo:
 
@@ -13,7 +13,7 @@ $ git clone https://github.com/YOUR-USERNAME/TestTaskSceleton.git
 3.  Go to project directory and install dependencies
 
 ```bash
-$ cd TestTaskSceleton && npm i
+$ cd TestTaskTemplate && npm i
 ```
 
 4.  Run the development server
